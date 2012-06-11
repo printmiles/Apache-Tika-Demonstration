@@ -1,9 +1,10 @@
 Apache-Tika-Demonstration
 =========================
 
-Demonstration of Tika and Commons Compress.
+Demonstration of Tika and Commons Compress, please refer to the Wiki for more information.
 
 Requires the following libraries:
+---------------------------------
 Apache Tika (http://tika.apache.org)
 Apache Commons Compress (http://commons.apache.org/compress)
 
